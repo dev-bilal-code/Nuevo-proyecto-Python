@@ -30,7 +30,7 @@ print(persona["edad"])
 
 
 
-# para eliminar completamente un valor en un diciciionario usamos del
+# para eliminar completamente un valor en un dicicionario usamos del
 del persona["profesion"]["me_gusta_python"] # lo elimina completamente
 
 #print(persona)
